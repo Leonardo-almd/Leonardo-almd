@@ -1,7 +1,8 @@
 ## Olá, me chamo Leonardo ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou cursando um curso de Desenvolvimento Web Full Stack da instituição Labenu e também uma graduação de Engenharia da computação.
+- 🔭 Atualmente estou cursando um curso de Desenvolvimento Web Full Stack da instituição Labenu e também uma graduação de Engenharia da computação na Universidade São Judas Tadeu.
+
 - 🌱 Com o andamento do curso de desenvolvimento pretendo procurar uma oportunidade para estagiar ou entrar numa vaga junior para assim aprender mais e viver essa vida de programação.
 
 
