@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou formado num curso de Desenvolvimento Web Full Stack da instituição Labenu e também cursando uma graduação de Engenharia da computação na Universidade São Judas Tadeu.
 
-- 🌱 Estou atuando no mercado como um estagiário em desenvolvimento sendo Full-Stack.
+- 🌱 Estou atuando no mercado como um desenvolvedor web sendo Full-Stack.
 
 
 
