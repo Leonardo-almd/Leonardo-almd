@@ -8,7 +8,7 @@
 
 Desenvolvedor Full Stack com **3+ anos de experiência** em Node.js, NestJS, Angular e bancos de dados relacionais e NoSQL. Engenheiro da Computação pela **Universidade São Judas Tadeu** (2024), com pós-graduação em **Arquitetura de Software** pela **FIAP** (2026).
 
-- 🔭 Atualmente na **Bizify (PROMAX)** como Desenvolvedor Full Stack Pleno, liderando o desenvolvimento de uma API v2 modular em NestJS com princípios SOLID, e implementando processamento assíncrono em produção com Redis e Bull.
+- 🔭 Atualmente na **Bizify** como Desenvolvedor Full Stack Pleno, liderando o desenvolvimento de uma API v2 modular em NestJS com princípios SOLID, e implementando processamento assíncrono em produção com Redis e Bull.
 - 🌱 Experiência prática com **microsserviços, Clean Architecture, Arquitetura Hexagonal, DDD e Saga Pattern**, consolidada ao longo dos Tech Challenges e do Hackathon integrado da pós-graduação FIAP (sistema de gestão para oficina automotiva, evoluindo de monólito a microsserviços com observabilidade, Kubernetes e IaC).
 - 🛠️ No dia a dia também escrevo scripts `mongosh` para migração de dados em bases Parse Server, monitoro saúde de banco via Parse Dashboard e acompanho logs de produção direto no terminal Linux.
 
@@ -80,7 +80,7 @@ Desenvolvedor Full Stack com **3+ anos de experiência** em Node.js, NestJS, Ang
 
 Full Stack Developer with **3+ years of experience** in Node.js, NestJS, Angular, and both relational and NoSQL databases. Computer Engineer from **Universidade São Judas Tadeu** (2024), with a postgraduate degree in **Software Architecture** from **FIAP** (2026).
 
-- 🔭 Currently at **Bizify (PROMAX)** as a Mid-Level Full Stack Developer, leading the development of a modular API v2 in NestJS using SOLID principles, and implementing asynchronous background processing in production with Redis and Bull.
+- 🔭 Currently at **Bizify** as a Mid-Level Full Stack Developer, leading the development of a modular API v2 in NestJS using SOLID principles, and implementing asynchronous background processing in production with Redis and Bull.
 - 🌱 Hands-on experience with **microservices, Clean Architecture, Hexagonal Architecture, DDD, and the Saga Pattern**, built up across the Tech Challenges and integrated Hackathon of my FIAP postgrad program (an automotive workshop management system evolving from a monolith to microservices, with observability, Kubernetes, and IaC).
 - 🛠️ Day to day I also write `mongosh` scripts to migrate data across Parse Server-based databases, monitor database health via Parse Dashboard, and track production logs directly from the Linux terminal.
 
